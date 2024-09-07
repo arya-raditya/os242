@@ -9,3 +9,11 @@ ZCZC W00 15 L05 QUIZ
 ZCZC W00 30 L08 Discussion with peers
 ZCZC W00 30 L32 Watching overview of OS
 ZCZC W00 30 L09 Weekly Assignments
+ZCZC W01 90 L09 Set Up Virtual Debian for Weekly Assignments
+ZCZC W01 99 L02 Attending Monday's Class
+ZCZC W01 30 L09 Finishing Weekly Assignments
+ZCZC W01 99 L02 Attending Wednesday's Class
+ZCZC W01 15 L08 Discussion with peers
+ZCZC W01 30 L05 Studying for weekly quiz
+ZCZC W01 15 L05 QUIZ
+ZCZC W01 90 L09 Finishing Weekly Assignments
