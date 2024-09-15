@@ -14,6 +14,8 @@ permalink: LINKS/
   Slides to help me understand this course better.
 * [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg). ---
 Some easy-to-use commands to inspect hardware. 
+* [Full Course of Cyber Security for Beginners](https://www.youtube.com/watch?v=U_P23SqJaDc) --- 
+Long video but covers all abut CyberSec for beginners
 These commands will help you list PCI devices, view information about your CPU, and more.
 <br>
 <br>
