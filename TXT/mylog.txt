@@ -2,6 +2,15 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W02 99 L02 Attending Wednesday's Class
+ZCZC W02 99 L02 Attending Monday's Class
+ZCZC W02 30 L08 Discussion with peers
+ZCZC W02 90 L32 Try Studying CyberSecurity
+ZCZC W05 30 L05 Studying for Quiz
+ZCZC W05 15 L05 QUIZ
+ZCZC W02 90 L09 Doing Weekly Assignment
+ZCZC W02 20 L03 Integrating to github
+ZCZC W02 90 L32 Watching some videos about Virtual Machine
 ZCZC W01 90 L09 Set Up Virtual Debian for Weekly Assignments
 ZCZC W01 99 L02 Attending Monday's Class
 ZCZC W01 30 L09 Finishing Weekly Assignments
