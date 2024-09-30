@@ -2,6 +2,15 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W04 99 L02 Watching video as replacement of Wednesday's Class
+ZCZC W04 99 L02 Attending Monday's Class
+ZCZC W04 60 L05 Studying for Quiz
+ZCZC W04 20 L05 Doing Week03 Quiz
+ZCZC W04 99 L32 Watching about Cybersecurity
+ZCZC W04 90 L08 Discussion with peers about OS
+ZCZC W04 90 L09 Doing weekly assignment
+ZCZC W04 90 L09 Doing Popquiz
+ZCZC W04 99 L32 Continue Learning Cybersecurity
 ZCZC W03 99 L02 Attending Wednesday's Class
 ZCZC W03 99 L02 Attending Monday's Class
 ZCZC W03 90 L08 Discussing OS with peers
