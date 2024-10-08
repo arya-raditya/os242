@@ -21,6 +21,8 @@ These commands will help you list PCI devices, view information about your CPU, 
 A Ted Talk about Cybersec in the age of AI
 * [Recording of WEEK05 OS on YouTube](https://youtu.be/uFj7mKNq1t0?si=HTYe3KwTkHKmYBSU) ---
 Previous year record of WEEK05 OS about Addressing, Shared Lib, & Pointer
+* [Previous years problem for midterm](https://rms46.vlsm.org/2/200.pdf) ---
+Previous year midterm problem to help me prepare for upcoming midterm
 <br>
 <br>
 <hr>
