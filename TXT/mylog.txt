@@ -2,6 +2,16 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W06 99 L02 Attending Wednesday's Class
+ZCZC W06 99 L02 Attending Monday's Class
+ZCZC W06 60 L05 Studying for Quiz
+ZCZC W06 99 L09 Doing weekly assignment
+ZCZC W06 90 L08 Discussion with peers
+ZCZC W06 30 L26 Learning GPG set up and doing some experiment for stage 2 midterm
+ZCZC W06 30 L27 Learning SSH set up and doing some experiment for stage 2 midterm
+ZCZC W06 99 L09 Doing Popquiz
+ZCZC W06 99 L09 Continue doing popquiz
+ZCZC W06 90 L32 Watching some references about fork
 ZCZC W05 99 L02 Attending Wednesday's Class
 ZCZC W05 99 L02 Attending Monday's Class
 ZCZC W05 60 L05 Studying for Quiz

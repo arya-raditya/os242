@@ -23,6 +23,8 @@ A Ted Talk about Cybersec in the age of AI
 Previous year record of WEEK05 OS about Addressing, Shared Lib, & Pointer
 * [Previous years problem for midterm](https://rms46.vlsm.org/2/200.pdf) ---
 Previous year midterm problem to help me prepare for upcoming midterm
+* [Introduction to top command](https://www.howtogeek.com/668986/how-to-use-the-linux-top-command-and-understand-its-output/) ---
+Introduction to how to use "top" and when to use it
 <br>
 <br>
 <hr>
