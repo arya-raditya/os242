@@ -27,6 +27,8 @@ Previous year midterm problem to help me prepare for upcoming midterm
 Introduction to how to use "top" and when to use it
 * [Introduction to fork](https://youtu.be/xVSPv-9x3gk?si=oPd4aqUfPdRhrFnG) ---
 Simple tutorial explaining the basics of fork
+* [Playlist for LFS](https://youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&si=ROYMDo_WTEHuEVAM) ---
+Best playlist to guide implementing Linux From Scratch
 <br>
 <br>
 <hr>
