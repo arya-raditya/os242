@@ -29,6 +29,8 @@ Introduction to how to use "top" and when to use it
 Simple tutorial explaining the basics of fork
 * [Playlist for LFS](https://youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&si=ROYMDo_WTEHuEVAM) ---
 Best playlist to guide implementing Linux From Scratch
+* [A video about Linux](https://youtu.be/8WkcLwXCFJQ?si=ISYibHnOONoYWjZh) ---
+A fun video about linux, but also helpful somehow
 <br>
 <br>
 <hr>
