@@ -31,6 +31,8 @@ Simple tutorial explaining the basics of fork
 Best playlist to guide implementing Linux From Scratch
 * [A video about Linux](https://youtu.be/8WkcLwXCFJQ?si=ISYibHnOONoYWjZh) ---
 A fun video about linux, but also helpful somehow
+* [Best video in the whole world](https://youtu.be/ReIeiTqYTGc?si=fvy1aGcb1vRwL1hi) ---
+Surely it doesn't traumatized me at all
 <br>
 <br>
 <hr>
